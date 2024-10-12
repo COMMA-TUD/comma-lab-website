@@ -1,19 +1,17 @@
 # site properties and page defaults
-title: COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: The COMMA Lab at TU Delft website.
 subtitle: 
 description: 
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
-  email: contact@COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: b.caglar@tudelft.nl
+  orcid: 0000-0001-7771-7323
+  google-scholar: nShlEwMAAAAJ
+  github: COMMA-TUD
 
 ### jekyll settings
 

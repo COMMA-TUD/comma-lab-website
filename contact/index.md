@@ -7,27 +7,25 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is part of the [Faculty of Aerospace Engineering](https://www.tudelft.nl/en/ae) at the [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/). We are hosted within the [Department of Aerospace Structures and Materials](https://www.tudelft.nl/index.php?id=3842).
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="b.caglar@tudelft.nl"
+  link="b.caglar@tudelft.nl"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+31 15 27 83566"
+  link="+31 15 27 83566"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/q9adj9ry5ZFcm4Ag8"
 %}
 
 {% include section.html %}
@@ -36,8 +34,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/aerial_ae_faculty.jpg"
+  caption="TUDelft, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)"
+  link="https://www.tudelft.nl/en/ae"
 %}
 
 {% endcapture %}
@@ -46,8 +45,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact/autumn_in_delft.jpg"
+  caption="[Autumn in Delft](https://www.deviantart.com/siddhartha19/art/Autumn-in-Delft-333968210), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)"
 %}
 
 {% endcapture %}
