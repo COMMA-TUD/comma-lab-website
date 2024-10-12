@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: The COMMA Lab at TU Delft website.
 subtitle: 
-description: 
+description:
 header: images/background.jpg
 footer: images/background.jpg
 proofer: true

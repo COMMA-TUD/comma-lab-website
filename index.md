@@ -1,8 +1,9 @@
 ---
 ---
 
-# COMMA-TUDDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# COMMA Lab
 
+Disclaimer - This website is under construction.
 
 
 {% include section.html %}
